@@ -1,0 +1,5 @@
+/* alt+shift+f -выравнивание текста
+*{
+    box-sizing: border-box;
+}
+это для css */
